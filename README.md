@@ -4,6 +4,7 @@ MatchMusic é uma aplicação relacionado a criar playlist e salvar musicas, arm
 ## Tecnologias e Práticas Utilizadas
 - **Postgree**
 - **Maven**
+- **POO**
 - **DTO**
 - **JQPL**
 
